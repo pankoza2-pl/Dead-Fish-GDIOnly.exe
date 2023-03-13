@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\bin\Release\Dead Fish-GDIOnly.exe
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\bin\Release\Dead Fish-GDIOnly.pdb
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead Fish-GDIOnly.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead_Fish.Properties.Resources.resources
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead Fish-GDIOnly.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead Fish-GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead Fish-GDIOnly.exe
+C:\Users\ACER\source\repos\Dead Fish-GDIOnly\Dead Fish\obj\Release\Dead Fish-GDIOnly.pdb
