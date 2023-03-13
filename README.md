@@ -1,4 +1,4 @@
-# :fish:Dead-Fish.exe
+# :fish:Dead-Fish-GDIOnly.exe
 A safety version of Dead Fish.exe 
 
 Original by kapi-n
